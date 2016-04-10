@@ -1,0 +1,19 @@
+#Ignoro los ejecutables
+*.exe
+*.class
+*.pyc
+*.o
+
+#Node modules
+node_modules/
+
+#Other
+*.zip
+!prueba.zip
+
+#Android
+*.apk
+.idea/
+
+#HTML files
+*.html
